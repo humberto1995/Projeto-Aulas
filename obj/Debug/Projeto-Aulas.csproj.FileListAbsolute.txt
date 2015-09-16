@@ -1,0 +1,12 @@
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\bin\Debug\Projeto-Aulas.exe.config
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\bin\Debug\Projeto-Aulas.exe
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\bin\Debug\Projeto-Aulas.pdb
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto-Aulas.csprojResolveAssemblyReference.cache
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto_Aulas.FrmEditorTexto.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto_Aulas.Properties.Resources.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto-Aulas.csproj.GenerateResource.Cache
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto-Aulas.exe
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto-Aulas.pdb
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto_Aulas.FrmFormula1.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto_Aulas.FrmCaixaLoja.resources
+C:\Users\Humberto\Documents\GitHub\Projeto-Aulas\Projeto-Aulas\obj\Debug\Projeto_Aulas.FrmFileSystem.resources
